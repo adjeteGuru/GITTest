@@ -8,6 +8,7 @@ namespace GITTest
 {
     static class Program
     {
+        //TEST MASTER
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
