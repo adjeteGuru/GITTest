@@ -7,7 +7,7 @@ using System.Windows.Forms;
 namespace GITTest
 {
     static class Program
-    {
+    {// add comment to new test branch
         //TEST MASTER
         /// <summary>
         /// The main entry point for the application.
